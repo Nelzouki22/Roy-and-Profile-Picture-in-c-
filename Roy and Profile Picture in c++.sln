@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Roy and Profile Picture in c++", "Roy and Profile Picture in c++.vcxproj", "{82055180-5554-4CFB-9BC1-B042AA1EBDE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82055180-5554-4CFB-9BC1-B042AA1EBDE8}.Debug|x64.ActiveCfg = Debug|x64
+		{82055180-5554-4CFB-9BC1-B042AA1EBDE8}.Debug|x64.Build.0 = Debug|x64
+		{82055180-5554-4CFB-9BC1-B042AA1EBDE8}.Debug|x86.ActiveCfg = Debug|Win32
+		{82055180-5554-4CFB-9BC1-B042AA1EBDE8}.Debug|x86.Build.0 = Debug|Win32
+		{82055180-5554-4CFB-9BC1-B042AA1EBDE8}.Release|x64.ActiveCfg = Release|x64
+		{82055180-5554-4CFB-9BC1-B042AA1EBDE8}.Release|x64.Build.0 = Release|x64
+		{82055180-5554-4CFB-9BC1-B042AA1EBDE8}.Release|x86.ActiveCfg = Release|Win32
+		{82055180-5554-4CFB-9BC1-B042AA1EBDE8}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A61DD5E-C980-44FF-99BC-3E5108E3A200}
+	EndGlobalSection
+EndGlobal
